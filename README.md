@@ -77,7 +77,7 @@ CarbonDMP was developed with AI-assisted coding.
 
 The mod's implementation, code and overall behavior itself was manually tested, debugged, reviewed, and adjusted by the author to run without any issues (experience-related or performance-related).
 
-All visual assets (UI textures, etc.) and other components were created by the author without any AI generation involced.
+All visual assets (UI textures, etc.) and other components were created by the author without any AI generation involved.
 
 ---
 
