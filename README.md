@@ -57,6 +57,8 @@ Default keyboard controls:
 - `8` - Previous Track
 - `9` - Play / Pause
 - `0` - Next Track
+- `[` - Shuffle ON/OFF
+- `[` - Mute ON/OFF
 
 The UI toggle key and other controls can be configured through CarbonDMP.ini
 
