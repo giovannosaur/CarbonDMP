@@ -7,13 +7,14 @@ CarbonDMP is a dynamic external music player mod built for Need for Speed: Carbo
 ## Features
 
 - Context-aware music switching: you can configure which songs to be played on FE (Main Menu, Safehouse, Car Lot), Gameplay (Freeroam and Race), or both.
+- Automatic music pause/stop on certain game states (e.g. loading screens, FMVs, non-interactive cutscenes)
 - Speed-Sensitive Audio: reads your vehicle speed while in Race or Freeroam; then adjusts LPF + Volume levels based on it. (basically, faster = louder and clearer)
-- Interior Audio On Idle: reads if vehicle is idling for around 10 seconds while in Race or Freeroam; applies an "interior car speaker" effect when detected.
+- Interior Audio On Idle: detects if vehicle has been on idle for around 10 seconds while in Race or Freeroam; applies an "interior car speaker" effect chain when detected.
 - Speedbreaker LPF: applies low pass filter effect on every game speedbreaker moments.
+- Mini player overlay, with 2 different styles: Fancy and Simple.
 - Music player UI with track, artist, and album information.
 - In-game music player controls: Play/Pause, Next, Previous, Shuffle and Mute.
 - Configurable keyboard controls from the CarbonDMP.ini configuration file (live editing currently not supported).
-- Mini player overlay, with 2 different styles: Fancy and Simple.
 - Configurable audio settings.
 
 ---
@@ -32,7 +33,7 @@ The following dependencies are required to build:
 
 ## External Dependencies
 
-The project uses third-party libraries and references including:
+The project uses third-party libraries including:
 
 - BASS Audio Library
 - BASS_FX
@@ -73,9 +74,9 @@ The UI toggle key and other controls can be configured through CarbonDMP.ini
 
 CarbonDMP was developed with AI-assisted coding.
 
-The mod's implementation, code and overall behavior itself was manually tested, debugged, reviewed, and adjusted by the author.
+The mod's implementation, code and overall behavior itself was manually tested, debugged, reviewed, and adjusted by the author to run without any issues (experience-related or performance-related).
 
-All visual assets (UI textures, etc.) and other components were created by the author without AI generation.
+All visual assets (UI textures, etc.) and other components were created by the author without any AI generation involced.
 
 ---
 
