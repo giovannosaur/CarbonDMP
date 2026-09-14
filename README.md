@@ -6,6 +6,7 @@ CarbonDMP is a dynamic external music player mod built for Need for Speed: Carbo
 
 ## Features
 
+- Easy-to-edit tracklist system: reads all music from one file (scripts/CarbonDMP/data.dat) which can be edited easily whenever you want to add or edit songs.
 - Context-aware music switching: you can configure which songs to be played on FE (Main Menu, Safehouse, Car Lot), Gameplay (Freeroam and Race), or both.
 - Automatic music pause/stop on certain game states (e.g. loading screens, FMVs, non-interactive cutscenes)
 - Speed-Sensitive Audio: reads your vehicle speed while in Race or Freeroam; then adjusts LPF + Volume levels based on it. (basically, faster = louder and clearer)
