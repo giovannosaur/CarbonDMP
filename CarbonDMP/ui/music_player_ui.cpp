@@ -5290,6 +5290,7 @@ namespace MusicPlayerUI
 
                 const char* credits[] =
                 {
+                    "giovannosaur (or nismofan / vannonosaur) - Author",
                     "TsudaKageyu - MinHook",
                     "Un4seen Developments Ltd. - BASS Audio Library + BASS_FX",
                     "ThirteenAG - Ultimate ASI Loader",
@@ -5303,7 +5304,7 @@ namespace MusicPlayerUI
                     lineHeight +
                     titleMarginBottom;
 
-                for (int i = 0; i < 5; ++i)
+                for (int i = 0; i < 7; ++i)
                 {
                     RECT lineRect =
                     {
