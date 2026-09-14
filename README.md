@@ -47,7 +47,8 @@ Third-party components remain subject to their respective licenses and copyright
 
 Default keyboard controls:
 
-- `7` - Toggle Music Player
+- `F11` - Toggle Music Player
+- `7` - Switch between Miniplayer - Menu
 - `I` / `K` - Navigate Up / Down
 - `J` / `L` - Adjust Left / Right
 - `U` - Back
