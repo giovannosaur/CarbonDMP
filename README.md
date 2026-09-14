@@ -68,6 +68,7 @@ The UI toggle key and other controls can be configured through CarbonDMP.ini
 
 - TsudaKageyu - MinHook
 - Un4seen Developments Ltd. - BASS Audio Library + BASS_FX
+- ThirteenAG - Ultimate ASI Loader
 - berkayylmao - NFSPluginSDK (game memory references)
 - Zolika1351 - NFSC-SDK (game memory references)
 - ARCHIE - NFSC_CustomHUD (game memory references)
