@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CarbonDMP/CarbonDMP.vcxproj" Id="9291c8c5-f406-4e2f-9ede-b5c9475fb4de" />
+</Solution>
